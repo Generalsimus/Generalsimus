@@ -1,14 +1,12 @@
 ### Hi there 👋
 
-
-[![Standard JS][kix-src]][kix-href]
-
-
-
-
-[kix-src]: ./logo.png
-[kix-href]: https://kixjs.ml/
-
+ 
+  
+<p align="center" width="100%">
+<a  target="_blank" title="kix">
+    <img width="33%" src="./logo.png" alt="kix">
+ </a>
+</p>
 
 
  
