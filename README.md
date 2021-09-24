@@ -1,9 +1,15 @@
 ### Hi there 👋
 
-<br>  
+
+[![Standard JS][kix-src]][kix-href]
 
 
-[<img alt="kix" width="25%" src="./logo.png" />](https://kixjs.ml/)
 
 
+[kix-src]: ./logo.png
+[kix-href]: https://kixjs.ml/
+
+
+
+ 
 <br>
